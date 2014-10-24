@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceScreen
+        android:key="zhichi"
+        android:title="评价kenai" />
+    <PreferenceScreen
+        android:key="tuijian_melody"
+        android:title="kenai旗舰-melody" />
+    <PreferenceScreen
+        android:key="tuijian_dream"
+        android:title="kenai旗舰-魅手势" />
+    <PreferenceScreen
+        android:title="kenai软件"
+        android:key="tuijian">
+
+    </PreferenceScreen>
+    <PreferenceScreen
+        android:key="changeicon"
+        android:title="更改图标" />
+
+
+</PreferenceScreen>
